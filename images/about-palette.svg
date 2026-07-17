@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" width="800" height="900">
+<defs><radialGradient id="palette" cx="50%" cy="50%" r="75%">
+<stop offset="0%" stop-color="#e9dcc9"/><stop offset="100%" stop-color="#cbb996"/></radialGradient></defs>
+<rect width="800" height="900" fill="url(#palette)"/><circle cx="456" cy="414" r="60" fill="#c0453f"/>
+<circle cx="396" cy="518" r="60" fill="#e8b04b"/>
+<circle cx="275" cy="518" r="60" fill="#3d5a6c"/>
+<circle cx="216" cy="413" r="60" fill="#8a9b6e"/>
+<circle cx="277" cy="309" r="60" fill="#ffffff"/>
+<circle cx="397" cy="311" r="60" fill="#7c4a8e"/><rect x="120.0" y="90.0" width="14" height="495.00000000000006" fill="#6b4a35" transform="rotate(28 120.0 90.0)"/>
+</svg>
